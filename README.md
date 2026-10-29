@@ -13,7 +13,7 @@
 
 | 项 | 值 |
 |---|---|
-| 原文 | 107 页，266,308 字符 |
+| 原文 | 107 页，266,308 字符（纯文本，无插图） |
 | 翻译单元 | 89 节 |
 | 译文 | 114,309 字 |
 | 完成率 | 89/89，零失败 |
@@ -29,7 +29,6 @@ originals/      原始 PDF
 原文/           MinerU 解析 + 按章切分的 Obsidian 笔记
 译文/           分节译文 + 合并稿 + 校对报告
 glossary/       译名对照表（Cthulhu Eternal 术语体系）
-assets/images/  原书插图
 tools/          fix_ocr / split / translate / qa
 raw/            MinerU 原始输出（不提交）
 ```
